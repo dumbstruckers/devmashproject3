@@ -1,0 +1,24 @@
+body
+{
+
+background-color: lightgrey;
+
+}
+
+
+.body
+{
+
+padding-top: 7%;	
+
+}
+
+.frame
+{
+
+	background-color: ghostwhite;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: 3%;
+	border-radius: 20px;
+}
